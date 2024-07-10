@@ -1,0 +1,21 @@
+.thanks{
+    height: 80vh;
+}
+.big{
+    font-size: 100px;
+    margin-top: 150px;
+    font-weight: bolder;
+}
+.s1{
+    font-size: 25px;
+    margin-top: 150px;
+}
+.s2{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.back{
+    margin-top: 30px;
+    text-decoration: underline;
+    color: rgb(230, 74, 50) ;
+}

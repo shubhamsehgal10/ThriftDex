@@ -1,0 +1,109 @@
+.container{
+    height: 80vh;
+    width: 100%;
+    background-color: rgba(222, 222, 222, 0.595);
+    padding-top: 100px;
+}
+.payment{
+    height: 450px;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.head-container{
+    padding-top: 30px;
+    width: 100%;
+}
+.heading{
+    width: 63%;
+    float: left;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+}
+.amount{
+    width: 20%;
+    float: left;
+    background-color: rgb(233, 233, 233);
+    border-radius: 7px;
+}
+.card div{
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 30px;
+    color: rgb(166, 166, 166);
+}
+.card input{
+    margin: auto;
+    width: 78%;
+    margin-top: 10px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding-left: 10px;
+}
+
+.p1{
+    color: rgb(166, 166, 166);
+    margin-top: 20px;
+    width: 40%;
+    float: left;
+    margin-left: 40px;
+    text-align: left;
+}
+.p2{
+    color: rgb(166, 166, 166);
+    margin-top: 20px;
+    width: 40%;
+    text-align: left;
+    float: left;
+}
+.inp1{
+    height: 32px;
+    width: 100px;
+    border-radius: 7px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.inp2{
+    margin-top: 20px;
+    width: 155px;
+    height: 30px;
+    border-radius: 7px;
+    float: left;
+    margin-left: 55px;
+}
+.cancel button{
+    height: 50px;
+    width: 70px;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.327);
+    border: none;
+    color: rgb(166, 166, 166);
+    float: left;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+.cancel{
+    width: 40%;
+}
+.pay button{
+    height: 50px;
+    width: 140px;
+    margin-top: 20px;
+    background-color: rgb(135, 14, 227);
+    border: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 80px;
+    cursor: pointer;
+}
